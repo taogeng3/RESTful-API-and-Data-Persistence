@@ -1,5 +1,5 @@
 # Author
-Group 1: Tao Geng
+Tao Geng
 
 
 # Tool
